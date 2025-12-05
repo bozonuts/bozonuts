@@ -14,9 +14,14 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/ritik307/bozonuts"/> 
+ <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
  <img src="https://badges.pufler.dev/repos/bozonuts"/>
  <img src="https://badges.pufler.dev/commits/monthly/bozonuts" />
 
+</p>
 
 **Roblox systems developer specializing in gameplay mechanics, combat frameworks, and secure server-authoritative design.**
 
