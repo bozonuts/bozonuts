@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I’m Levi  
+**Roblox systems developer specializing in gameplay mechanics, combat frameworks, and secure server-authoritative design.**
 
-<!--
-**bozonuts/bozonuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Areas of Expertise
+- **Gameplay Systems Engineering:** Combat logic, hitbox systems, animation-driven mechanics, parry/block frameworks, aerial combos, and state-based controllers.  
+- **Server-Authoritative Architecture:** Secure replication flows, exploit-resistant combat handling, and modular service design.  
+- **Systems & Tools Development:** RemoteEvent inspectors, debugging utilities, custom testing dummies, and internal developer tools.  
+- **UI/UX Implementation:** Functional game UI, notification systems, interaction menus, and Figma-to-Roblox pipelines.  
+- **Environment Interaction:** Dialogue systems, branching narratives, tree-interaction mechanics, and movement extensions.
 
-Here are some ideas to get you started:
+### 🛠 Technologies
+- **Luau / Roblox Engine**  
+- **Module & Service Architecture**  
+- **Raycast-based Hitboxes & VFX Pipelines**  
+- **Animation Controllers & State Machines**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Focus
+Building scalable, secure, and high-quality gameplay systems for Roblox experiences, with an emphasis on **combat depth, reliability, and player feedback**.
